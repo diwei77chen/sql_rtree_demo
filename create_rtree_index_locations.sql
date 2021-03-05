@@ -1,0 +1,1 @@
+CREATE VIRTUAL TABLE locations_index USING rtree(id, minX, maxX, minY, maxY);

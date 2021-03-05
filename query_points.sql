@@ -1,0 +1,1 @@
+select * from locations_index where minX>=110 and maxX<=111 and minY>=27 and maxY<=28;
