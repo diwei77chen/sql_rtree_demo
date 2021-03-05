@@ -1,1 +1,1 @@
-select * from locations_index where minX>=110 and maxX<=111 and minY>=27 and maxY<=28;
+SELECT * FROM locations_index WHERE minX>=110 AND maxX<=111 AND minY>=27 AND maxY<=28;
